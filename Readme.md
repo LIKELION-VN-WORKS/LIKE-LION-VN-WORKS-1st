@@ -20,12 +20,14 @@
  &nbsp;&nbsp; 세세하게 기획된 아이디어는 여러분의 프로토타입(초기 제품 컨셉) 완성도에 직접적인 영향을 줍니다. 팀원들과의 회의에서 여러분의 아이디어를 발전시켜주세요.
  <br>
  <br>
- 
+
 - 해커톤 팀명 및 팀원 정보 공유<br>
  &nbsp;&nbsp; 팀원들과의 네트워킹을 통해 해커톤을 함께 진행할 팀원을 구하고 팀 명을 만들어주세요.
  <br>
  <br>
+
 ---
-<br>
+
+
 
 <img src="https://1.bp.blogspot.com/-biibokUJWHE/XEFsXgGqjhI/AAAAAAAAFYA/LN25W_KeLA8zoE-3yO1BcaaD5m5Zq5azwCLcBGAs/s1600/1.jpg" alt="해커톤" style="zoom:50%;" />
